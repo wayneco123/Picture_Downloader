@@ -20,7 +20,7 @@ def get_img(html):
         x += 1
 
 
-html = get_html("https://tieba.baidu.com/p/1753935195")
+html = get_html("http://tieba.baidu.com/p/2166231880")
 print(get_img(html))
 """
     return img_list
